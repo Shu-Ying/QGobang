@@ -2,6 +2,7 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
+DESTDIR     = $$PWD
 OBJECTS_DIR = $$PWD/../build/$$TARGET/obj
 MOC_DIR     = $$PWD/../build/$$TARGET/moc
 RCC_DIR     = $$PWD/../build/$$TARGET/rcc
@@ -22,6 +23,6 @@ HEADERS += \
 FORMS += \
     Ui\widget.ui
 
-#引用QGobangTool库文件
+# 引用QGobangTool库文件
 INCLUDEPATH += ../QGobangTool/include
 LIBS += -L$$OUT_PWD/../QGobangTool/lib -lQGobangTool

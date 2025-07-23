@@ -10,6 +10,7 @@
  ***************************************************************/
 
 namespace NS_QGobangServer
+{
 
 class CServerManager
 {
@@ -23,5 +24,7 @@ private:
     static CServerManager  *m_pInstance;
 
 };
+
+}
 
 #endif // CSERVERMANAGER_H

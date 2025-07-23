@@ -30,6 +30,6 @@ Widget *CUiManager::getWidget()
 
 CUiManager::CUiManager()
 {
-    //记得初始化成nullptr
+    // 记得初始化成nullptr
     m_pWidget = nullptr;
 }

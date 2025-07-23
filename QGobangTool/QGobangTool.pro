@@ -14,8 +14,7 @@ CONFIG += c++17 cmdline
 CONFIG -= debug_and_release debug_and_release_target
 
 SOURCES += \
-        QGobangRule.cpp \
-        main.cpp
+        QGobangRule.cpp
 
 HEADERS += \
   QGobangRule.h

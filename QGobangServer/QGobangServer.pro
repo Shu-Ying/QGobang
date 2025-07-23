@@ -12,9 +12,10 @@ SOURCES += \
         CServerManager.cpp \
         main.cpp
 
-#引用QGobangTool库文件
-INCLUDEPATH += ../QGobangTool/include
-LIBS += -L$$OUT_PWD/../QGobangTool/lib -lQGobangTool
-
 HEADERS += \
   CServerManager.h
+
+
+# 引用QGobangTool库文件
+INCLUDEPATH += ../QGobangTool/include
+LIBS += -L$$OUT_PWD/../QGobangTool/lib -lQGobangTool
