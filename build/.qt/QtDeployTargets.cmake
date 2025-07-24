@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_QGobangClient_FILE E:/Qt/QGobang/build/QGobangClient.exe)
+set(__QT_DEPLOY_TARGET_QGobangClient_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_QGobangClient_RUNTIME_DLLS F:/APP/Qt/6.8.2/mingw_64/bin/Qt6Widgets.dll;F:/APP/Qt/6.8.2/mingw_64/bin/Qt6Gui.dll;F:/APP/Qt/6.8.2/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_QGobangServer_FILE E:/Qt/QGobang/build/QGobangServer.exe)
+set(__QT_DEPLOY_TARGET_QGobangServer_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_QGobangServer_RUNTIME_DLLS F:/APP/Qt/6.8.2/mingw_64/bin/Qt6Widgets.dll;F:/APP/Qt/6.8.2/mingw_64/bin/Qt6Gui.dll;F:/APP/Qt/6.8.2/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_QGobangTool_FILE E:/Qt/QGobang/build/QGobangTool/libQGobangTool.a)
+set(__QT_DEPLOY_TARGET_QGobangTool_TYPE STATIC_LIBRARY)

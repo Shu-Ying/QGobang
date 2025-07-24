@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QGobangClient.dir/objects.a
+F:\APP\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\QGobangClient.dir/objects.a @CMakeFiles\QGobangClient.dir\objects1.rsp
+F:\App\Qt\Tools\mingw1310_64\bin\g++.exe -DQT_QML_DEBUG -g -Wl,--whole-archive CMakeFiles\QGobangClient.dir/objects.a -Wl,--no-whole-archive -o ..\QGobangClient.exe -Wl,--out-implib,libQGobangClient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QGobangClient.dir\linkLibs.rsp

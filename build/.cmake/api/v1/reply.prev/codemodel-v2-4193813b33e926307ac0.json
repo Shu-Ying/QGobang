@@ -1,0 +1,180 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "QGobangClient",
+					"jsonFile" : "directory-QGobangClient-Debug-da99b446f9b53bfdaffc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "QGobangClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "QGobangServer",
+					"jsonFile" : "directory-QGobangServer-Debug-f2f884e99af126e4a213.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "QGobangServer",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "QGobangTool",
+					"jsonFile" : "directory-QGobangTool-Debug-e0c4664ba67676f3a2f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "QGobangTool",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "QGobang",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "QGobangClient::@45939d2f00f77b0956ba",
+					"jsonFile" : "target-QGobangClient-Debug-83f7909186ed44f9bcf8.json",
+					"name" : "QGobangClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QGobangClient_autogen::@45939d2f00f77b0956ba",
+					"jsonFile" : "target-QGobangClient_autogen-Debug-8439916e9cff96fb7304.json",
+					"name" : "QGobangClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QGobangClient_autogen_timestamp_deps::@45939d2f00f77b0956ba",
+					"jsonFile" : "target-QGobangClient_autogen_timestamp_deps-Debug-7fcb9500a203ef32b923.json",
+					"name" : "QGobangClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "QGobangServer::@524db3ad240deb30a910",
+					"jsonFile" : "target-QGobangServer-Debug-a2ae9780b4ed76282c82.json",
+					"name" : "QGobangServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "QGobangServer_autogen::@524db3ad240deb30a910",
+					"jsonFile" : "target-QGobangServer_autogen-Debug-f1df5c2aba9a9be122f5.json",
+					"name" : "QGobangServer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "QGobangServer_autogen_timestamp_deps::@524db3ad240deb30a910",
+					"jsonFile" : "target-QGobangServer_autogen_timestamp_deps-Debug-5e13e5f74e4f6a70aba3.json",
+					"name" : "QGobangServer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "QGobangTool::@c965056105fb096df024",
+					"jsonFile" : "target-QGobangTool-Debug-7149d8f4b689c82378a5.json",
+					"name" : "QGobangTool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "QGobangTool_autogen::@c965056105fb096df024",
+					"jsonFile" : "target-QGobangTool_autogen-Debug-1523f5abac14de03e603.json",
+					"name" : "QGobangTool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "QGobangTool_autogen_timestamp_deps::@c965056105fb096df024",
+					"jsonFile" : "target-QGobangTool_autogen_timestamp_deps-Debug-ba99529be3f0c924c277.json",
+					"name" : "QGobangTool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Qt/QGobang/build",
+		"source" : "E:/Qt/QGobang"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

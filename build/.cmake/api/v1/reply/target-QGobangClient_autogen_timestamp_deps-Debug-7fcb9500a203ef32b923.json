@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"QGobangClient/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "QGobangClient_autogen_timestamp_deps::@45939d2f00f77b0956ba",
+	"isGeneratorProvided" : true,
+	"name" : "QGobangClient_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "QGobangClient",
+		"source" : "QGobangClient"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
