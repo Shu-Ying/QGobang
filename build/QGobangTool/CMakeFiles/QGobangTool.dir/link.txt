@@ -1,2 +1,0 @@
-F:\APP\Qt\Tools\mingw1310_64\bin\ar.exe qc libQGobangTool.a CMakeFiles/QGobangTool.dir/QGobangTool_autogen/mocs_compilation.cpp.obj CMakeFiles/QGobangTool.dir/QGobangRule.cpp.obj
-F:\APP\Qt\Tools\mingw1310_64\bin\ranlib.exe libQGobangTool.a
