@@ -1,17 +1,5 @@
 ./build/*
 
-./QGobangClient/Makefile
-./QGobangClient/Makefile.Debug
-./QGobangClient/Makefile.Release
-
-./QGobangServer/Makefile
-./QGobangServer/Makefile.Debug
-./QGobangServer/Makefile.Release
-
-./QGobangTool/Makefile
-./QGobangTool/Makefile.Debug
-./QGobangTool/Makefile.Release
-
 # C++ objects and libs
 *.slo
 *.lo
