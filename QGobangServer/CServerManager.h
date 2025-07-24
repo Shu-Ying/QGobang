@@ -12,17 +12,21 @@
 namespace NS_QGobangServer
 {
 
+class CHttpService;
 class CServerManager
 {
 public:
     static CServerManager *getInstance();
 
+    CHttpService* getHttpService();
+
 private:
     CServerManager();
 
 private:
-    static CServerManager  *m_pInstance;
+    CHttpService            *m_pHttpService;        //http服务
 
+    static CServerManager   *m_pInstance;
 };
 
 }
